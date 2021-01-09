@@ -1,0 +1,1338 @@
+[
+	{
+		"identifier": {
+			"id": "vscode.bat"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.clojure"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.coffeescript"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.configuration-editing"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.cpp"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.csharp"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.css"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.css-language-features"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.debug-auto-launch"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.debug-server-ready"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.docker"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.emmet"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.extension-editing"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.fsharp"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.git"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.git-ui"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.github"
+		},
+		"version": "0.0.1"
+	},
+	{
+		"identifier": {
+			"id": "vscode.github-authentication"
+		},
+		"version": "0.0.1"
+	},
+	{
+		"identifier": {
+			"id": "vscode.go"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.groovy"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.grunt"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.gulp"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.handlebars"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.hlsl"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.html"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.html-language-features"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.image-preview"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.ini"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.jake"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.java"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.javascript"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.json"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.json-language-features"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.less"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.log"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.lua"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.make"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.markdown"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.markdown-language-features"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.merge-conflict"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.microsoft-authentication"
+		},
+		"version": "0.0.1"
+	},
+	{
+		"identifier": {
+			"id": "vscode.npm"
+		},
+		"version": "1.0.1"
+	},
+	{
+		"identifier": {
+			"id": "vscode.objective-c"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.perl"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.php"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.php-language-features"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.powershell"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.pug"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.python"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.r"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.razor"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.ruby"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.rust"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.scss"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.search-result"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.shaderlab"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.shellscript"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.sql"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.swift"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-abyss"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-defaults"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-kimbie-dark"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-monokai"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-monokai-dimmed"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-quietlight"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-red"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-solarized-dark"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-solarized-light"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.theme-tomorrow-night-blue"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.typescript"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.typescript-language-features"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.vb"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.vscode-theme-seti"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.xml"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "vscode.yaml"
+		},
+		"version": "1.0.0"
+	},
+	{
+		"identifier": {
+			"id": "aaron-bond.better-comments",
+			"uuid": "7a0110bb-231a-4598-aa1b-0769ea46d28b"
+		},
+		"version": "2.1.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "alexcvzz.vscode-sqlite",
+			"uuid": "eaee103c-e866-4b73-87f8-3749cab64da2"
+		},
+		"version": "0.9.0",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "alexiv.vscode-angular2-files",
+			"uuid": "1d4278a8-3599-45f1-a4ad-dd9723ff3904"
+		},
+		"version": "1.6.4",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "almenon.arepl",
+			"uuid": "88eb8072-5ab1-457b-9835-6d92196388a3"
+		},
+		"version": "2.0.0",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "angular.ng-template",
+			"uuid": "a92d457e-6f3f-4167-8087-1a54e1b6e00e"
+		},
+		"version": "0.1100.2",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "apedroed.happy-flasker",
+			"uuid": "23dec545-36f2-414e-bbbf-a4e6040286d7"
+		},
+		"version": "0.0.7",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "arcticicestudio.nord-visual-studio-code",
+			"uuid": "6f35c257-7fd5-4bc2-9cd1-01976589c17a"
+		},
+		"version": "0.15.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "azemoh.one-monokai",
+			"uuid": "b027c4b2-25ad-46db-b574-05dae3b2dc92"
+		},
+		"version": "0.5.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "batisteo.vscode-django",
+			"uuid": "4b41a5a8-170e-4156-b2c0-10efb270abbc"
+		},
+		"version": "1.0.1",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "benitezdouglas.express-faster",
+			"uuid": "a52d6c03-685a-4540-a33e-7208fa525fc5"
+		},
+		"version": "0.2.15",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "bigonesystems.django",
+			"uuid": "cc008fa0-41cb-41de-b2e2-9a8bb1208a9d"
+		},
+		"version": "1.0.2",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "christian-kohler.npm-intellisense",
+			"uuid": "dff6b801-247e-40e9-82e8-8c9b1d19d1b8"
+		},
+		"version": "1.3.1",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "christian-kohler.path-intellisense",
+			"uuid": "a41c1549-4053-44d4-bf30-60fc809b4a86"
+		},
+		"version": "2.3.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "codeyard.flask-snippets",
+			"uuid": "095f5c1a-a92d-42e4-9d89-363d0d989220"
+		},
+		"version": "1.1.0",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "coenraads.bracket-pair-colorizer",
+			"uuid": "f583eafd-aa0d-4ccb-8f44-d1e610389660"
+		},
+		"version": "1.0.61",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "cstrap.flask-snippets",
+			"uuid": "059992b6-f77c-4828-817c-1397b29cdeec"
+		},
+		"version": "0.1.1",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "ctf0.show-unsaved-changes",
+			"uuid": "f5a3ab4f-8f8b-4afe-b4b1-acd36746f3fb"
+		},
+		"version": "0.0.8",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "dahong.theme-bear",
+			"uuid": "e2fafe48-b7d2-4403-9711-327bcf332644"
+		},
+		"version": "2.1.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "damiankoper.gdb-debug",
+			"uuid": "497d7078-f844-42d0-b773-2226b6be78b1"
+		},
+		"version": "1.0.7",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "davidbabel.vscode-simpler-icons",
+			"uuid": "8bfd87ec-2032-4a0e-a630-71eed81a027e"
+		},
+		"version": "1.6.5",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "dbaeumer.vscode-eslint",
+			"uuid": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a"
+		},
+		"version": "2.1.13",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "dongli.python-preview",
+			"uuid": "70e24b61-872b-47e6-b2a6-e5fc2cf3f4e9"
+		},
+		"version": "0.0.4",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "dphans.micropython-ide-vscode",
+			"uuid": "e741f81d-b7fb-4d6c-8e8d-f78e796cb8ae"
+		},
+		"version": "0.0.1",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "dsznajder.es7-react-js-snippets",
+			"uuid": "19804510-b475-4dae-b0f7-6ca08fd1af0c"
+		},
+		"version": "3.0.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "eamodio.gitlens",
+			"uuid": "4de763bd-505d-4978-9575-2b7696ecf94e"
+		},
+		"version": "11.0.6",
+		"installed": true,
+		"state": {
+			"gitlens:views:welcome:visible": true,
+			"gitlens:views:updates:visible": false,
+			"gitlens:synced:version": "11.0.6"
+		}
+	},
+	{
+		"identifier": {
+			"id": "eg2.vscode-npm-script",
+			"uuid": "ae9e3eb0-3357-4cc0-90ee-598d2d384757"
+		},
+		"version": "0.3.13",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "endormi.2077-theme",
+			"uuid": "9a2c5b90-283b-4454-87b6-96c05146d7ba"
+		},
+		"version": "1.4.8",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "esbenp.prettier-vscode",
+			"uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90"
+		},
+		"version": "5.8.0",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "felipe-mendes.slack-theme",
+			"uuid": "d91d5f34-af1f-4d4b-99d3-78f2f36aac63"
+		},
+		"version": "1.9.12",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "firefox-devtools.vscode-firefox-debug",
+			"uuid": "c5f4d87f-a524-462c-ac01-923eb19cf3e9"
+		},
+		"version": "2.9.1",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "formulahendry.auto-close-tag",
+			"uuid": "d3836729-9cc1-42c1-b2af-d50071f57d29"
+		},
+		"version": "0.5.9",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "formulahendry.code-runner",
+			"uuid": "a6a0c5b2-d078-4bf5-a9ee-4e37054414b3"
+		},
+		"version": "0.11.1",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "formulahendry.docker-explorer",
+			"uuid": "96c69be9-5b09-4a18-8c82-4d30ab145017"
+		},
+		"version": "0.1.7",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "fwcd.kotlin",
+			"uuid": "c86bc8a9-fd3b-44db-b28a-2d146cb78d3c"
+		},
+		"version": "0.2.18",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "gerane.theme-azure",
+			"uuid": "c3c225bf-758d-4db6-9341-00952baff6dd"
+		},
+		"version": "0.0.5",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "giyyapan.pyformat",
+			"uuid": "d4139deb-3b24-428d-aa95-257e155245e3"
+		},
+		"version": "1.0.2",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "golang.go",
+			"uuid": "d6f6cfea-4b6f-41f4-b571-6ad2ab7918da"
+		},
+		"version": "0.18.1",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "gydunhn.typescript-essentials",
+			"uuid": "e6d5e48a-df7e-43cc-83c6-7695fce0852c"
+		},
+		"version": "0.2.2",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "himanoa.python-autopep8",
+			"uuid": "d552b939-38e0-46cd-9295-8b7880b43d6c"
+		},
+		"version": "1.0.2",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "igorming.useful-react-snippets",
+			"uuid": "d7c097fd-7c11-456a-80c5-94e0d924b646"
+		},
+		"version": "3.0.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "jasonnutter.search-node-modules",
+			"uuid": "ee108066-df8b-43ae-9a83-e6c11400a759"
+		},
+		"version": "1.3.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "jawandarajbir.react-vscode-extension-pack",
+			"uuid": "52b60bbb-1b9c-44e7-9d48-8a7abc5d9eff"
+		},
+		"version": "0.4.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "jdinhlife.gruvbox",
+			"uuid": "c6d564c4-ca8c-45ba-abf6-c85f2d1468d8"
+		},
+		"version": "1.4.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "joelday.docthis",
+			"uuid": "90a838c3-675b-4b87-b7a5-75ea88432cce"
+		},
+		"version": "0.7.1",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "johnpapa.angular2",
+			"uuid": "214cbfb9-7c06-4467-bad4-357ae83eb587"
+		},
+		"version": "9.1.2",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "kevinrose.vsc-python-indent",
+			"uuid": "f3cbfb84-b1e1-40ff-b70f-877253461260"
+		},
+		"version": "1.12.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "kiteco.kite",
+			"uuid": "d697a7e8-00fa-4039-9067-4b69a9a90f6e"
+		},
+		"version": "0.135.0",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "kuscamara.electron",
+			"uuid": "975d187d-7d95-4292-92ef-ad9e8f083ca3"
+		},
+		"version": "0.2.5",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "magicstack.magicpython",
+			"uuid": "1f5eb737-5496-44a3-a8a1-36a85eee4979"
+		},
+		"version": "1.1.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "mechatroner.rainbow-csv",
+			"uuid": "3792588c-3d35-442d-91ea-fe6a755e8155"
+		},
+		"version": "1.8.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "mengsicode.vscode-django-boilerplate",
+			"uuid": "b373a6c1-e154-4498-975b-e2c71d517008"
+		},
+		"version": "1.6.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "mikael.angular-beastcode",
+			"uuid": "850c6bb1-4a81-4f83-a81f-835d651a211c"
+		},
+		"version": "10.0.3",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "mikeshaker.python-essentials",
+			"uuid": "fd65eb5e-1a9d-4c3e-894f-c5396da053fa"
+		},
+		"version": "1.0.1",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "ms-azuretools.vscode-docker",
+			"uuid": "0479fc1c-3d67-49f9-b087-fb9069afe48f"
+		},
+		"version": "1.9.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "ms-python.anaconda-extension-pack",
+			"uuid": "5a8b9107-e667-4ec8-a792-d066a93b9eff"
+		},
+		"version": "1.0.1",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "ms-python.python",
+			"uuid": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5"
+		},
+		"version": "2020.12.424452561",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "ms-python.vscode-pylance",
+			"uuid": "364d2426-116a-433a-a5d8-a5098dc3afbd"
+		},
+		"version": "2020.12.2",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "ms-toolsai.jupyter",
+			"uuid": "6c2f1801-1e7f-45b2-9b5c-7782f1e076e8"
+		},
+		"version": "2020.12.414227025",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "ms-vscode.cpptools",
+			"uuid": "690b692e-e8a9-493f-b802-8089d50ac1b2"
+		},
+		"version": "1.1.1",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "ms-vscode.js-debug",
+			"uuid": "25629058-ddac-4e17-abba-74678e126c5d"
+		},
+		"version": "1.51.0"
+	},
+	{
+		"identifier": {
+			"id": "ms-vscode.js-debug-companion",
+			"uuid": "99cb0b7f-7354-4278-b8da-6cc79972169d"
+		},
+		"version": "1.0.8"
+	},
+	{
+		"identifier": {
+			"id": "ms-vscode.node-debug",
+			"uuid": "b6ded8fb-a0a0-4c1c-acbd-ab2a3bc995a6"
+		},
+		"version": "1.44.14"
+	},
+	{
+		"identifier": {
+			"id": "ms-vscode.node-debug2",
+			"uuid": "36d19e17-7569-4841-a001-947eb18602b2"
+		},
+		"version": "1.42.5"
+	},
+	{
+		"identifier": {
+			"id": "ms-vscode.references-view",
+			"uuid": "dc489f46-520d-4556-ae85-1f9eab3c412d"
+		},
+		"version": "0.0.71"
+	},
+	{
+		"identifier": {
+			"id": "ms-vscode.vscode-js-profile-table",
+			"uuid": "7e52b41b-71ad-457b-ab7e-0620f1fc4feb"
+		},
+		"version": "0.0.11"
+	},
+	{
+		"identifier": {
+			"id": "ms-vscode.vscode-typescript-tslint-plugin",
+			"uuid": "90a37ca1-92a2-488a-b196-7a8c0b0127ea"
+		},
+		"version": "1.2.3",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "msjsdiag.debugger-for-chrome",
+			"uuid": "1ec62ca5-d7f9-4ddb-a882-e8d018c0aefd"
+		},
+		"version": "4.12.11",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "njpwerner.autodocstring",
+			"uuid": "2d6fea35-f68e-461d-9b7b-5cd05be99451"
+		},
+		"version": "0.5.4",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "nrwl.angular-console",
+			"uuid": "d10af6bf-270f-4cf0-b94b-1bea4bda1e2e"
+		},
+		"version": "15.0.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "okon3.ayu-miragemod",
+			"uuid": "19eb3fc5-c135-441d-8a00-2449a8ef5339"
+		},
+		"version": "0.0.1",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "p1c2u.docker-compose",
+			"uuid": "b4b6f023-bc31-4050-bb3d-f419aae20eeb"
+		},
+		"version": "0.3.5",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "paulzhang.fastify-snippets",
+			"uuid": "06fc37a4-e524-4d7d-af9f-16808dcb37f7"
+		},
+		"version": "0.0.5",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "pkief.material-icon-theme",
+			"uuid": "5db78037-f674-459f-a236-db622c427c5b"
+		},
+		"version": "4.4.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "platformio.platformio-ide",
+			"uuid": "6cf182b2-70cf-433e-97f2-45f414c9ad89"
+		},
+		"version": "2.2.1",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "pmneo.tsimporter",
+			"uuid": "6bc1e3ad-c0e2-46b6-bbad-246c5f59215b"
+		},
+		"version": "2.0.1",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "progrmoiz.ja-pep",
+			"uuid": "9c62b499-d2f9-48f8-bb8d-ed1f2c2ff9fb"
+		},
+		"version": "1.1.0",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "rbbit.typescript-hero",
+			"uuid": "38583aca-2ba1-417f-80fc-68ca8d717fb4"
+		},
+		"version": "3.0.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "redhat.vscode-yaml",
+			"uuid": "2061917f-f76a-458a-8da9-f162de22b97e"
+		},
+		"version": "0.13.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "remimarsal.prettier-now",
+			"uuid": "707c46ed-f0c5-4fba-9f7f-025257b23b6b"
+		},
+		"version": "1.4.9",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "rickywhite.python-template-snippets",
+			"uuid": "ce66db28-d0db-4e62-87d2-addc5d836927"
+		},
+		"version": "1.1.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "rogalmic.bash-debug",
+			"uuid": "f4f0748b-9f86-461e-84f9-73bf2e1f91c2"
+		},
+		"version": "0.3.9",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "rvest.vs-code-prettier-eslint",
+			"uuid": "d4b06bd6-36a0-469f-be55-c0a73413b688"
+		},
+		"version": "0.4.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "samuelcolvin.jinjahtml",
+			"uuid": "8b477a76-974c-403d-a454-58028c1709d1"
+		},
+		"version": "0.15.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "shan.code-settings-sync",
+			"uuid": "e337c67b-55c2-4fef-8949-eb260e7fb7fd"
+		},
+		"version": "3.4.3",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "shd101wyy.markdown-preview-enhanced",
+			"uuid": "3b1db1fc-c7f7-4bd6-9fa4-b499dfa99a8a"
+		},
+		"version": "0.5.13",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "sid200026.django-snippets",
+			"uuid": "4c6780be-2523-4725-808c-74d11ef49829"
+		},
+		"version": "0.0.4",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "spywhere.guides",
+			"uuid": "38ad8277-d23f-4cfc-becf-c77e41c3f2ee"
+		},
+		"version": "0.9.3",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "steoates.autoimport",
+			"uuid": "70378119-1d85-4935-9733-0298c7a369a2"
+		},
+		"version": "1.5.3",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "streetsidesoftware.code-spell-checker",
+			"uuid": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7"
+		},
+		"version": "1.10.2",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "tabnine.tabnine-vscode",
+			"uuid": "75da638c-c45a-44ea-aa3b-8570a3559810"
+		},
+		"version": "3.1.17",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "teabyii.ayu",
+			"uuid": "5178733e-4b02-4829-95c5-1ce970847c23"
+		},
+		"version": "0.20.1",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "thebarkman.vscode-djaneiro",
+			"uuid": "7e72252f-e749-4e4a-bc6a-4a8cc2d121bd"
+		},
+		"version": "1.4.2",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "thekalinga.bootstrap4-vscode",
+			"uuid": "2a658c1b-308a-41e8-805a-fc8abda483bc"
+		},
+		"version": "6.1.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "tht13.python",
+			"uuid": "19e1cdbe-42df-443e-89c0-bfecc7204b1d"
+		},
+		"version": "0.2.3",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "tyriar.lorem-ipsum",
+			"uuid": "489abeb0-400c-4a08-bde4-cf5d9b863a32"
+		},
+		"version": "1.2.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "visualstudioexptteam.vscodeintellicode",
+			"uuid": "876e8f93-74d0-4f4f-91b7-34a09f19f444"
+		},
+		"version": "1.2.10",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "vscjava.vscode-java-debug",
+			"uuid": "61fcd0cf-64d7-4836-8d6b-d55f4fb83281"
+		},
+		"version": "0.29.0",
+		"disabled": true,
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "vscode-icons-team.vscode-icons",
+			"uuid": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a"
+		},
+		"version": "11.0.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "wholroyd.jinja",
+			"uuid": "c941a679-d500-46a8-b2a9-208063125901"
+		},
+		"version": "0.0.8",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "wscats.html-snippets",
+			"uuid": "12bc21bf-53f6-4641-96b6-f24497df206b"
+		},
+		"version": "1.0.6",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "wscats.react-extension-pack",
+			"uuid": "eadd22f4-3a6c-43e6-9678-4853695b9271"
+		},
+		"version": "0.0.4",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "wscats.search",
+			"uuid": "298ae6b9-0b67-42ce-b30c-31876b2997d6"
+		},
+		"version": "1.0.34",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "wyattferguson.jinja2-snippet-kit",
+			"uuid": "d5097c61-3453-42ac-a2af-840ca519673c"
+		},
+		"version": "2.0.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "xabikos.javascriptsnippets",
+			"uuid": "a2cec723-5349-460d-9de9-0fd1f8d3456f"
+		},
+		"version": "1.8.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "xabikos.reactsnippets",
+			"uuid": "c807e072-5951-4a01-9542-450f946c7ec1"
+		},
+		"version": "2.4.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "youssef.viow",
+			"uuid": "2ac9e6ab-e4f6-49ef-9f5a-7a711b3d5644"
+		},
+		"version": "0.3.3",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "yzhang.markdown-all-in-one",
+			"uuid": "98790d67-10fa-497c-9113-f6c7489207b2"
+		},
+		"version": "3.4.0",
+		"installed": true
+	},
+	{
+		"identifier": {
+			"id": "zuoez02.tslint-snippets",
+			"uuid": "f8152f95-752a-43ee-9ffe-a18974c1e20b"
+		},
+		"version": "1.1.0",
+		"installed": true
+	}
+]
