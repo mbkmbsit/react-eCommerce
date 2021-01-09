@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Input from '../../common/input';
 export default class Register extends Component {
 	state = {
-		account: { username: '', password: '', name: '', email: '', age: '', gender: '', address: '' },
 		errors: {}
 	};
 	componentDidMount() {}
@@ -23,7 +22,7 @@ export default class Register extends Component {
 	};
 
 	render() {
-		let { account } = this.state;
+		let { account } = this.props;
 		return (
 			<div>
 				<div>Login</div>
